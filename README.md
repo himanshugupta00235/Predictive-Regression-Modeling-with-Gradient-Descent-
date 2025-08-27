@@ -138,8 +138,8 @@ python MultipleLinearRegression/MultipleLinearRegression.py
 
 - 👤 **Name:** Himanshu Gupta  
 - 📧 **Email:** [himanshugupta00235@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/apurv-sardana](www.linkedin.com/in/himanshu-gupta-383a6b220)  
-- 💻 **GitHub:** [github.com/ApurvSardana](https://github.com/himanshugupta00235)
+- 🔗 **LinkedIn:** (www.linkedin.com/in/himanshu-gupta-383a6b220)  
+- 💻 **GitHub:** (https://github.com/himanshugupta00235)
 
 ---
 
